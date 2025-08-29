@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8effc4aa0ed3442fa59e1b92daabb27a, type: 3}
+  m_Name: FireWaterInteraction
+  m_EditorClassIdentifier: 
+  sourceElement: {fileID: 11400000, guid: 1699dbb07d6cfa14281cada470f68e78, type: 2}
+  appliedElement: {fileID: 11400000, guid: 65f69daba74df79409ecc0164dd38fda, type: 2}
+  resultElement: {fileID: 11400000, guid: d2b443c8a47699248989f00ecfd96043, type: 2}
+  effects:
+  - {fileID: 11400000, guid: 4524afcd9a9d4264b995fd37bc08577f, type: 2}

@@ -1,0 +1,1 @@
+﻿public enum AvatarForm { Fire, Water, Air, Soil }
